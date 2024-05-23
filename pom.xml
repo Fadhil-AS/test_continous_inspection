@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/Fadhil-AS/test_continuous_inspection</url>
+      <url>https://maven.pkg.github.com/Fadhil-AS/test_continous_inspection</url>
     </repository>
   </distributionManagement>
   
